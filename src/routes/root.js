@@ -101,7 +101,7 @@ export default function Root(args) {
                 width: 60
               }}
             />
-            Nouveau Health
+            Nouveau Healthh
           </NavbarBrand>
           <NavbarText>Login</NavbarText>
         </Navbar>
